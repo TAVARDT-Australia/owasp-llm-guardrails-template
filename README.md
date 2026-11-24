@@ -1,4 +1,4 @@
-# OWASP LLM01 Guardrails Template & AI Security Blueprint | TAVARDT Australia
+# OWASP LLM01 Guardrails Template & AI Security Blueprint
 
 [![Licence MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![OWASP LLM01](https://img.shields.io/badge/OWASP-LLM01%20Hardened-ff0055.svg)](https://owasp.org/www-project-top-10-for-large-language-model-applications/)
@@ -85,4 +85,4 @@ If your organisation requires tailored ACSC-aligned AI security reviews, automat
 ## Licence
 
 Distributed under the open-source MIT Licence. View the [`LICENSE`](LICENSE) file for full details.  
-Copyright (c) 2026 TAVARDT Australia.
+Copyright (c) 2026 TAVARDT.
