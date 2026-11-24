@@ -7,9 +7,9 @@
 
 Production-tested open source middleware and security blueprint for mitigating Prompt Injection (OWASP LLM01), system prompt extraction, and adversarial jailbreaks, aligned with ACSC AI security principles and the Australian Privacy Act 1988.
 
-Engineered and maintained by the AI safety and security engineering practice at **[TAVARDT Australia](https://ag.tavardt.com/au/super-intelligence/)**.
+Engineered and maintained by the AI safety and security engineering practice at **TAVARDT Australia**.
 
----
+***
 
 ## 1. AI Security Architecture Overview
 
@@ -18,27 +18,27 @@ This repository delivers an operational security blueprint and lightweight Pytho
 ### Mitigating Data and Control Plane Convergence
 Modern LLMs process prompt directives and external inputs within the same processing window. Deterministic guardrails prevent prompt injection, untrusted document hijacking, and unauthorized action invocation.
 
----
+***
 
 ## 2. Threat Vectors Addressed (OWASP Top 10 for LLMs)
 
 | Defence Layer | Threat Vector Mitigated | Mitigation Mechanism |
-| :--- | :--- | :--- |
+| :- | :- | :- |
 | **Input Sanitiser** | Direct Prompt Injection & Jailbreaks | Real-time heuristic detection of override commands (`ignore previous instructions`, simulated persona shifts). |
 | **Canary Token Verifier** | System Prompt Exfiltration | Dynamic verification of canary tokens in completions to block system instruction leaks. |
 | **RAG Boundary Guard** | Indirect Prompt Injection | Isolation and sanitisation of untrusted documents retrieved during vector search. |
 | **Structured Output Filter** | Unauthorised Action Invocation | Schema-enforced validation of tool arguments before execution. |
 
----
+***
 
 ## 3. Pre-Deployment AI Robustness Assessment
 
 Verify your conversational models and AI agent pipelines against adversarial inputs before production rollout:
 
-* **AI Robustness Assessment:** [TAVARDT Australia LLM Robustness Evaluator](https://tools.tavardt.com/au/llm-robustness-evaluator/)
-* **Complete Regional Tooling Suite:** [TAVARDT Tools Australia](https://tools.tavardt.com/au/)
+* **AI Robustness Assessment:** **TAVARDT Australia LLM Robustness Evaluator**
+* **Complete Regional Tooling Suite:** **TAVARDT Tools Australia**
 
----
+***
 
 ## 4. Implementation & Quickstart Guide
 
@@ -71,16 +71,16 @@ if not is_valid:
     raise SecurityError("Critical alert: System prompt leak detected via canary token!")
 ```
 
----
+***
 
 ## 5. AI Security Advisory & Autonomous Agent Engineering
 
 If your organisation requires tailored ACSC-aligned AI security reviews, automated WhatsApp/web agent protection, or technical advisory:
 
-* **Corporate Portal:** [TAVARDT Australia](https://ag.tavardt.com/au/super-intelligence/)
+* **Corporate Portal:** **TAVARDT Australia**
 * **Technical Contact:** [Liaise with Engineering](https://ag.tavardt.com/au/contact/)
 
----
+***
 
 ## Licence
 
