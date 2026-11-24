@@ -7,7 +7,7 @@
 
 Production-tested open source middleware and security blueprint for mitigating Prompt Injection (OWASP LLM01), system prompt extraction, and adversarial jailbreaks, aligned with ACSC AI security principles and the Australian Privacy Act 1988.
 
-Engineered and maintained by the AI safety and security engineering practice at **TAVARDT Australia**.
+Engineered and maintained by the AI safety and security engineering practice at **TAVARDT**.
 
 ***
 
@@ -35,7 +35,7 @@ Modern LLMs process prompt directives and external inputs within the same proces
 
 Verify your conversational models and AI agent pipelines against adversarial inputs before production rollout:
 
-* **AI Robustness Assessment:** **TAVARDT Australia LLM Robustness Evaluator**
+* **AI Robustness Assessment:** **TAVARDT LLM Robustness Evaluator**
 * **Complete Regional Tooling Suite:** **TAVARDT Tools Australia**
 
 ***
@@ -77,7 +77,7 @@ if not is_valid:
 
 If your organisation requires tailored ACSC-aligned AI security reviews, automated WhatsApp/web agent protection, or technical advisory:
 
-* **Corporate Portal:** **TAVARDT Australia**
+* **Corporate Portal:** **TAVARDT**
 * **Technical Contact:** [Liaise with Engineering](https://ag.tavardt.com/au/contact/)
 
 ***
@@ -85,4 +85,8 @@ If your organisation requires tailored ACSC-aligned AI security reviews, automat
 ## Licence
 
 Distributed under the open-source MIT Licence. View the [`LICENSE`](LICENSE) file for full details.  
-Copyright (c) 2026 TAVARDT.
+Copyright
+
+***
+
+© 2026 TAVARDT. All rights reserved.
