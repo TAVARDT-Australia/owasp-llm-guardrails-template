@@ -82,6 +82,14 @@ If your organisation requires tailored ACSC-aligned AI security reviews, automat
 
 ***
 
+## Useful Links
+
+* **Corporate Portal:** https://ag.tavardt.com/au/
+* **Diagnostic Suite:** https://tools.tavardt.com/au/
+* **Technical Contact:** https://ag.tavardt.com/au/contact/
+
+***
+
 ## Licence
 
 Distributed under the open-source MIT Licence. View the [`LICENSE`](LICENSE) file for full details.  
