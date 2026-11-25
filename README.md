@@ -90,10 +90,9 @@ If your organisation requires tailored ACSC-aligned AI security reviews, automat
 
 ***
 
-## Licence
+### Licence
 
-Distributed under the open-source MIT Licence. View the [`LICENSE`](LICENSE) file for full details.  
-Copyright
+Distributed under the open-source MIT Licence. View the [`LICENSE`](LICENSE) file for full details.
 
 ***
 
